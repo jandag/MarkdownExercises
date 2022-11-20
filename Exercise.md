@@ -39,11 +39,21 @@ This ~~not a text~~ that I want to show.
 
 [Another link to the file but on the Computer](Empty.md)
 
+[File](README.md)
+
 ## Images
 
 <!-- Example of an image -->
 
+![This is an image](Oslonki-glowy-Nimfa-M-i-Adonis-M.jpg)
+
+![Another picture from file](./pictures/obrazek.PNG)
+
+![Picure from the Internet](https://picsum.photos/id/237/200/300)
+
 <!-- Example of an image with hover text -->
+
+![Picture with hover text](https://picsum.photos/id/237/200/ "dog")
 
 <!-- Example of equation or inline code -->
 

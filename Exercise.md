@@ -1,21 +1,11 @@
 <!-- Example of title -->
-My exercise is Markdown
+My exercise is Markdown<!-- omit in toc -->
 =======================
 
 <!-- Here comes the table of content -->
-Table of Content
-- Line break
+# **Table of Content**
 
-- [Links and images](#links-and-images)
-  - [Links](#links)
-  - [Images](#images)
-
-
-- [My exercise is Markdown](#my-exercise-is-markdown)
-- [Links and images](#links-and-images)
-  - [Links](#links)
-    - [Links less important](#links-less-important)
-  - [Images](#images)
+- 
 
 
 <!-- Example of paragraph of text with line break -->
@@ -24,12 +14,15 @@ Break the line.
 
 This is the second sentence of this exercise. 
 [P] Doing the same with HTML.
+
 <!-- Example of another paragraph -->
 This is  very very veeeeeery long sentence in which we will practice one very long sentence.
+
 <!-- Example of bold -->
 This is **bold** text.
 
 This is also __bold__ text.
+
 <!-- Example of italic  -->
 This is *italic* text.
 

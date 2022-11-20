@@ -10,6 +10,14 @@ Table of Content
   - [Links](#links)
   - [Images](#images)
 
+
+- [My exercise is Markdown](#my-exercise-is-markdown)
+- [Links and images](#links-and-images)
+  - [Links](#links)
+    - [Links less important](#links-less-important)
+  - [Images](#images)
+
+
 <!-- Example of paragraph of text with line break -->
 This is an example of text with line break.   
 Break the line. 
@@ -76,12 +84,15 @@ This ~~not a text~~ that I want to show.
 
 <!-- Example of table -->
 
-Column | Another column | Last column
------- | --------------- | ---
-Line 1 | Line 1 column 2 | Line 1 Column 3
-Line 2 | Line 2 column 2 | Line 2 Column 3
-Line 3 | Line 3 column 2 | Line 3 Column 3
-Line 4 | Line 4 column 2 | Line 4 Column 3
+| Column | Another column  | Last column     |
+| ------ | --------------- | --------------- |
+| Line 1 | Line 1 column 2 | Line 1 Column 3 |
+| Line 2 | Line 2 column 2 | Line 2 Column 3 |
+| Line 3 | Line 3 column 2 | Line 3 Column 3 |
+| Line 4 | Line 4 column 2 | Line 4 Column 3 |
+
+Empty line is needed to end the table
+
 
 
 <!-- Paragraph after table -->

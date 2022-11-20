@@ -13,12 +13,14 @@ This is the second sentence of this exercise.
 This is  very very veeeeeery long sentence in which we will practice one very long sentence.
 <!-- Example of bold -->
 This is **bold** text.
+
 This is also __bold__ text.
 <!-- Example of italic  -->
 This is *italic* text.
-This is also _italic_ text.
-<!-- Example of headers -->
 
+This is also _italic_ text.
+<!-- Example of strikethrough -->
+This ~~not a text~~ that I want to show.
 <!-- Example of external link -->
 
 <!-- Example of link to another file -->

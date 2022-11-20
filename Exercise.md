@@ -1,7 +1,14 @@
 <!-- Example of title -->
 My exercise is Markdown
 =======================
+
 <!-- Here comes the table of content -->
+Table of Content
+- Line break
+
+- [Links and images](#links-and-images)
+  - [Links](#links)
+  - [Images](#images)
 
 <!-- Example of paragraph of text with line break -->
 This is an example of text with line break.   
@@ -68,5 +75,13 @@ This ~~not a text~~ that I want to show.
 <!-- Example of numbered list -->
 
 <!-- Example of table -->
+
+Column | Another column | Last column
+------ | --------------- | ---
+Line 1 | Line 1 column 2 | Line 1 Column 3
+Line 2 | Line 2 column 2 | Line 2 Column 3
+Line 3 | Line 3 column 2 | Line 3 Column 3
+Line 4 | Line 4 column 2 | Line 4 Column 3
+
 
 <!-- Paragraph after table -->

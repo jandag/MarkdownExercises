@@ -19,11 +19,27 @@ This is also __bold__ text.
 This is *italic* text.
 
 This is also _italic_ text.
+
 <!-- Example of strikethrough -->
 This ~~not a text~~ that I want to show.
+
+<!-- Example of headers -->
+
+# Links and images
+
+## Links
+
+### Links less important
+
 <!-- Example of external link -->
 
+[Webpage on localization](https://github.com/)
+
 <!-- Example of link to another file -->
+
+[Another link to the file but on the Computer](Empty.md)
+
+## Images
 
 <!-- Example of an image -->
 

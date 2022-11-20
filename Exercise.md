@@ -10,11 +10,13 @@ Break the line.
 This is the second sentence of this exercise. 
 [P] Doing the same with HTML.
 <!-- Example of another paragraph -->
-
+This is  very very veeeeeery long sentence in which we will practice one very long sentence.
 <!-- Example of bold -->
-
+This is **bold** text.
+This is also __bold__ text.
 <!-- Example of italic  -->
-
+This is *italic* text.
+This is also _italic_ text.
 <!-- Example of headers -->
 
 <!-- Example of external link -->

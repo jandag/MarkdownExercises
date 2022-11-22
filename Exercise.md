@@ -4,16 +4,12 @@ My exercise is Markdown<!-- omit in toc -->
 
 <!-- Here comes the table of content -->
 # **Table of Content**
-- [**Table of Content**](#table-of-content)
   - [Paragraph of text with LINE BREAK](#paragraph-of-text-with-line-break)
   - [Very long paragraph WITHOUT LINE BREAK](#very-long-paragraph-without-line-break)
   - [BOLD](#bold)
   - [ITALIC](#italic)
   - [STRIKETHROUGH](#strikethrough)
   - [HEADERS](#headers)
-- [The most important header](#the-most-important-header)
-  - [Less important header](#less-important-header)
-    - [Least important header](#least-important-header)
   - [EXTERNAL LINK](#external-link)
   - [LINK ON THE COMPUTER](#link-on-the-computer)
   - [IMAGES](#images)

@@ -11,7 +11,7 @@ My exercise is Markdown<!-- omit in toc -->
   - [STRIKETHROUGH](#strikethrough)
   - [HEADERS](#headers)
   - [EXTERNAL LINK](#external-link)
-  - [LINK ON THE COMPUTER](#link-on-the-computer)
+  - [LINK TO THE FILE](#link-to-the-file)
   - [IMAGES](#images)
   - [IMAGE WITH HOVER TEXT](#image-with-hover-text)
   - [INLINE CODE](#inline-code)
@@ -71,10 +71,10 @@ This ~~not a text~~ that I want to show.
 
 [Webpage on localization](https://github.com/)
 
-## LINK ON THE COMPUTER
+## LINK TO THE FILE
 <!-- Example of link to another file -->
 
-[Another link to the file but on the Computer](Empty.md)
+[Another link to the file in the Folder](Empty.md)
 
 [File](README.md)
 
@@ -122,6 +122,16 @@ console.log(add(x, y));
 This is the way to ==highlight==.
 
 HTML <mark>highlight</mark>.
+
+This is an example of SYNTAX HIGHLITING:
+
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 
 ## QUOTE
 <!-- Example of quote -->
